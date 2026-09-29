@@ -18,7 +18,7 @@ To clone this repository:
 
 ```bash
 git clone https://github.com/yuvaneai/RAK-PVM.git
-cd RAK-PVM
+cd ASVP
 ```
 
 To install the required Python dependencies:
@@ -88,4 +88,3 @@ RAK-PVM supports report-free image-only inference for downstream chest X-ray cla
 cd downstream/
 CUDA_VISIBLE_DEVICES=0 python main.py
 ```
-# ASVP
